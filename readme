@@ -1,0 +1,20 @@
+
+IMAGE SEARCH APP 1.0
+
+- Image Search App is small JavaScript program which you can use to find images from internet.
+- App leveriges Unsplash (Free Image Website) database of images.
+  
+  https://unsplash.com/
+
+- Program contains 3 files:
+
+  index.html
+  script.js
+  style.css
+
+- Repository is free to download and free to use.
+
+
+! NOTE - JavaScript file contains a key to Unsplash development api and you should replace it with your own.
+         Key is free from https://unsplash.com website, when you sign in to service.
+
