@@ -1,6 +1,6 @@
 
 // You can get your own access key by signing to Unsplash
-const accessKey = "ZIHExQ17ODLx2qyoNB7SNGvUgHnhum1noxx5zY4JN_I"
+const accessKey = "";
 
 // Elements from document
 const formElement = document.querySelector('form');
